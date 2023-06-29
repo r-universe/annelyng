@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "RTSA"]
 	path = RTSA
-	url = https://github.com/cran/RTSA
+	url = https://github.com/annelyng/rtsa
